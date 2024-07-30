@@ -1,0 +1,1 @@
+🧠️🍏️✴️📖️ The official documentation source repository/separate repository for the archival and development of Ample Intelligence, an open source remake/alternative of the Apple Intelligence ecosystem. Written in C, and part of the WacOS Operating System Project.
